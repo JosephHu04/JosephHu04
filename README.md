@@ -2,7 +2,7 @@
 
 # 👋 Joseph
 
-🎓 CS @ MUST &nbsp;|&nbsp; 🧠 LLM Agent &nbsp;|&nbsp; 🐍 Python
+🎓 AI @ MUST &nbsp;|&nbsp; 🧠 LLM Agent &nbsp;|&nbsp; 🐍 Python
 
 </div>
 
