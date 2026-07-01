@@ -1,125 +1,78 @@
 <div align="center">
 
-<img src="joseph-ip.png" alt="Joseph IP" width="280" />
+<!-- Banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=180&section=header&text=&fontSize=0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=180&section=header&text=&fontSize=0" />
+</picture>
+
+<!-- Avatar -->
+<img src="joseph-ip.png" alt="Joseph" width="160" style="border-radius: 50%; margin-top: -100px; border: 4px solid #8B5CF6;" />
 
 # 👋 Hey, I'm Joseph
 
-**AI Student @ MUST** &nbsp;•&nbsp; **LLM Agent Builder** &nbsp;•&nbsp; **Open Source enthusiast**
+**🎓 AI @ MUST** &nbsp;•&nbsp; **🧠 LLM Agent Builder** &nbsp;•&nbsp; **🐍 Pythonist**
+
+*Building intelligent agents, one graph at a time*
 
 </div>
 
-<br>
+---
 
-<!-- 装饰分割线 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:8B5CF6&height=3&section=header" width="100%" />
-</div>
-
-### 👤 About Me
-
-<table>
-<tr>
-<td width="70%">
-
-- 🎓 Studying **Artificial Intelligence** at MUST
-- 🧠 Building LLM-powered agents with **LangGraph** & **Python**
-- 🔭 Currently exploring multi-agent systems & RAG pipelines
-- ⚡ Agents should be *composable*, not monolithic
-
-</td>
-<td width="30%" align="center">
-
-```
-  ┌──────────┐
-  │  🤖 💭   │
-  │  Agent   │
-  │  Builder │
-  └──────────┘
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:58A6FF&height=3&section=header" width="100%" />
-</div>
-
-### 🛠️ Tech Stack
+### 👤 About
 
 <div align="center">
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com)
-[![Gradio](https://img.shields.io/badge/Gradio-FF6C00?style=for-the-badge&logo=gradio&logoColor=white)](https://gradio.app)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+| | |
+|:---:|---|
+| 🎓 | Studying **Artificial Intelligence** at **MUST** |
+| 🧠 | Building LLM-powered agents with **LangGraph** & **Python** |
+| 🔭 | Exploring **multi-agent systems** & **RAG pipelines** |
+| 💡 | Agents should be *composable*, not monolithic |
 
 </div>
 
-<br>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:8B5CF6&height=3&section=header" width="100%" />
-</div>
-
-### 📌 Featured Projects
+### 🛠️ Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🏨 Hotel Room Service Agent V3
-
-LLM-powered hotel service agent
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=30363D)](https://github.com/JosephHu04/hotel-room-service-agent-v3)
-
-</td>
-<td align="center" width="50%">
-
-### 🏨 Hotel Room Service Agent V2
-
-LLM-powered hotel service agent
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=30363D)](https://github.com/JosephHu04/hotel-room-service-agent-v2)
-
-</td>
-</tr>
-</table>
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://langchain.com)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com)
+[![Gradio](https://img.shields.io/badge/-Gradio-FF6C00?style=flat-square&logo=gradio&logoColor=white)](https://gradio.app)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
 
 </div>
 
-<br>
+---
+
+### 📌 Featured
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:58A6FF&height=3&section=header" width="100%" />
+
+<a href="https://github.com/JosephHu04/hotel-room-service-agent-v3">
+  <img src="https://img.shields.io/badge/🏨_Hotel_Agent_V3-30363D?style=for-the-badge&logo=github&logoColor=white&labelColor=58A6FF" />
+</a>
+&nbsp;
+<a href="https://github.com/JosephHu04/hotel-room-service-agent-v2">
+  <img src="https://img.shields.io/badge/🏨_Hotel_Agent_V2-30363D?style=for-the-badge&logo=github&logoColor=white&labelColor=8B5CF6" />
+</a>
+
 </div>
 
-### 📊 At a Glance
+---
 
 <div align="center">
 
-| | | |
-|:---:|:---:|:---:|
-| 🎓 **AI @ MUST** | 🧠 **Agent Dev** | 🐍 **Pythonist** |
-| 🏗️ **LangGraph** | ⚡ **FastAPI** | 🔬 **RAG** |
+<!-- Footer wave -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=100&section=footer&text=&fontSize=0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=100&section=footer&text=&fontSize=0" />
+</picture>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=JosephHu04&color=58A6FF&style=flat-square&label=Profile+Views" />
-
-<br>
-
-*Built with ❤️ by Joseph*
+![Views](https://komarev.com/ghpvc/?username=JosephHu04&color=8B5CF6&style=flat-square&label=views)
 
 </div>
