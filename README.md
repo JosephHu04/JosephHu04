@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="joseph-ip.png" alt="Joseph IP" width="320" />
+<img src="joseph-ip.png" alt="Joseph IP" width="280" />
 
 # 👋 Hey, I'm Joseph
 
@@ -8,16 +8,44 @@
 
 </div>
 
----
+<br>
+
+<!-- 装饰分割线 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:8B5CF6&height=3&section=header" width="100%" />
+</div>
 
 ### 👤 About Me
 
-- 🎓 Studying Artificial Intelligence at **MUST**
+<table>
+<tr>
+<td width="70%">
+
+- 🎓 Studying **Artificial Intelligence** at MUST
 - 🧠 Building LLM-powered agents with **LangGraph** & **Python**
 - 🔭 Currently exploring multi-agent systems & RAG pipelines
-- ⚡ Fun fact: I believe agents should be *composable*, not monolithic
+- ⚡ Agents should be *composable*, not monolithic
 
----
+</td>
+<td width="30%" align="center">
+
+```
+  ┌──────────┐
+  │  🤖 💭   │
+  │  Agent   │
+  │  Builder │
+  └──────────┘
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:58A6FF&height=3&section=header" width="100%" />
+</div>
 
 ### 🛠️ Tech Stack
 
@@ -32,31 +60,65 @@
 
 </div>
 
----
-
-### 📊 GitHub Stats
+<br>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JosephHu04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephHu04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:8B5CF6&height=3&section=header" width="100%" />
 </div>
 
----
-
-### 📌 Pinned Projects
+### 📌 Featured Projects
 
 <div align="center">
 
-[![Hotel Room Service Agent V3](https://github-readme-stats.vercel.app/api/pin/?username=JosephHu04&repo=hotel-room-service-agent-v3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/JosephHu04/hotel-room-service-agent-v3)
-[![Hotel Room Service Agent V2](https://github-readme-stats.vercel.app/api/pin/?username=JosephHu04&repo=hotel-room-service-agent-v2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/JosephHu04/hotel-room-service-agent-v2)
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🏨 Hotel Room Service Agent V3
+
+LLM-powered hotel service agent
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=30363D)](https://github.com/JosephHu04/hotel-room-service-agent-v3)
+
+</td>
+<td align="center" width="50%">
+
+### 🏨 Hotel Room Service Agent V2
+
+LLM-powered hotel service agent
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=30363D)](https://github.com/JosephHu04/hotel-room-service-agent-v2)
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:58A6FF&height=3&section=header" width="100%" />
+</div>
+
+### 📊 At a Glance
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=JosephHu04&color=58A6FF&style=flat-square&label=Profile+Views)
+| | | |
+|:---:|:---:|:---:|
+| 🎓 **AI @ MUST** | 🧠 **Agent Dev** | 🐍 **Pythonist** |
+| 🏗️ **LangGraph** | ⚡ **FastAPI** | 🔬 **RAG** |
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=JosephHu04&color=58A6FF&style=flat-square&label=Profile+Views" />
+
+<br>
 
 *Built with ❤️ by Joseph*
 
